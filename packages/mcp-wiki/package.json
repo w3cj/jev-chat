@@ -1,0 +1,23 @@
+{
+  "name": "@jev-chat/mcp-wiki",
+  "private": true,
+  "description": "MCP server: Wikipedia search and articles as numbered, quotable lines",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "@jev-chat/mcp-kit": "workspace:*",
+    "@modelcontextprotocol/sdk": "catalog:",
+    "wtf_wikipedia": "^10.4.2",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "tsx": "catalog:",
+    "vitest": "catalog:"
+  }
+}

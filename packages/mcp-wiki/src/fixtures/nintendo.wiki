@@ -1,0 +1,150 @@
+{{Short description|Japanese video game company}}
+{{Pp-vandalism|small=yes}}
+{{Use dmy dates|date=November 2025}}
+{{Use American English|date=April 2023}}
+{{Infobox company
+| name = Nintendo Co., Ltd.
+| logo = Nintendo.svg
+| logo_caption = Logo used since May 2016{{efn|Variations of this logo with different color schemes have been in use since 1979 ''(see {{section link||Logos}})''.}}
+| logo_alt = 
+| image = Headquarters of Nintendo Co., Ltd.jpg
+| image_size = 
+| image_alt = Headquarters in Kyoto, Japan
+| image_caption = Headquarters in Kyoto, Japan
+| native_name = 任天堂株式会社
+| native_name_lang = ja
+| romanized_name = ''Nintendō [[kabushiki gaisha]]''
+| former_name = {{Unbulleted indent list
+  | Nintendo Koppai (1889)
+  | Yamauchi Nintendo (1889–1933)
+  | Yamauchi Nintendo & Co. (1933–1947)
+  | Marufuku Co., Ltd. (1947–1951)
+  | Nintendo Playing Card Co., Ltd. (1951–1963)
+  }}
+| type = [[Public company|Public]] <!--DO NOT CHANGE THIS FIELD-->
+| traded_as = {{Unbulleted list
+  | {{Tokyo Stock Exchange|7974}}
+  | [[TOPIX]] Core30 component
+  | [[Nikkei 225]] component
+  }}
+| ISIN = {{ISIN|sl=n|pl=y|JP3756600007}}
+| industry = {{Unbulleted list
+  | [[Video game industry|Video games]]
+  | [[Electronics industry|Electronics]]
+}}
+| founded = {{Start date and age|1889|09|23|df=yes}} in [[Shimogyō-ku, Kyoto]], Japan
+| founder = [[Fusajiro Yamauchi]]
+| hq_location = 11–1 Kamitoba Hokodatecho
+| hq_location_city = [[Minami-ku, Kyoto]]
+| hq_location_country = Japan
+| num_locations = 
+| num_locations_year = 
+| area_served = Worldwide
+| key_people = {{Unbulleted indent list
+  | [[Shuntaro Furukawa]] (president)
+  | [[Shigeru Miyamoto]] ([[Fellow|executive fellow]])
+  }}
+| products = [[List of Nintendo products|List of products]]
+| brands = {{Collapsible list|title=Video game series
+  | ''[[Animal Crossing]]''
+  | ''[[Art Style]]''
+  | ''[[Big Brain Academy]]''
+  | ''[[bit Generations]]''
+  | ''[[BoxBoy! (series)|BoxBoy!]]''
+  | ''[[Brain Age]]''
+  | ''[[Chibi-Robo!]]''
+  | ''[[Cruis'n]]''
+  | ''[[Custom Robo]]''
+  | ''[[Donkey Kong]]''
+  | ''[[Dr. Mario (series)|Dr. Mario]]''
+  | ''[[Excitebike (series)|Excite]]''
+  | ''[[F-Zero]]''
+  | ''[[Famicom Detective Club]]''
+  | ''[[Fire Emblem]]''
+  | ''[[Fossil Fighters]]''
+  | ''[[Golden Sun]]''
+  | ''[[Kid Icarus (series)|Kid Icarus]]''
+  | ''[[Kirby (series)|Kirby]]''
+  | ''[[The Legend of Zelda]]''
+  | ''[[The Legendary Starfy]]''
+  | ''[[Mario (franchise)|Mario]]''
+  | ''[[Mario Kart]]''
+  | ''[[Mario Party]]''
+  | ''[[Metroid]]''
+  | ''[[Mother (video game series)|Mother]]''
+  | ''[[Pikmin]]''
+  | ''[[Pilotwings]]''
+  | ''[[Pokémon (video game series)|Pokémon]]''
+  | ''[[Punch-Out!!]]''
+  | ''[[Puzzle League]]''
+  | ''[[Rhythm Heaven (series)|Rhythm Heaven]]''
+  | ''[[Splatoon]]''
+  | ''[[Star Fox]]''
+  | ''[[Super Mario]]''
+  | ''[[Super Smash Bros.]]''
+  | ''[[Tomodachi Life]]''
+  | ''[[Touch! Generations]]''
+  | ''[[Wario (series)|Wario]]''
+  | ''[[Wars (series)|Wars]]''
+  | ''[[Wii (video game series)|Wii]]''
+  | ''[[Xenoblade]]''
+  | ''[[List of Yoshi video games|Yoshi]]''
+  }}
+| production = {{Unbulleted list
+  | '''Hardware'''<br />{{Increase}} {{Nowrap|23.66 million}}<!-- 2020: 690,000 (3DS) + 21,030,000 (NS) = 21,720,000; 2021: 20,320,000 (NS) + 8,510,000 (NSLite) = 28,830,000 -->
+  | '''Software'''<br />{{Increase}} {{Nowrap|185.62 million}}<!-- 2019: 13,220,000 (3DS) + 118,550,000 (NS) = 131,870,000; 2020: 4,990,000 (3DS) + 168,720,000 (NS) = 173,710,000 -->
+  }}
+| production_year = FY26
+| services = {{Unbulleted list
+  | [[Nintendo eShop]]
+  | [[My Nintendo]]
+  | [[Nintendo Switch Online]]
+  }}
+| revenue = {{Increase}} {{JPY|2.31trillion}}
+| revenue_year = FY26
+| operating_income = {{Increase}} {{JPY|360.1 billion}}
+| income_year = FY26
+| net_income = {{Increase}} {{JPY|424 billion}}
+| net_income_year = FY26
+| assets = {{Increase}} {{JPY|3.805 trillion}}
+| assets_year = FY26
+| equity = {{Increase}} {{JPY|2.562 trillion}}
+| equity_year = FY26
+| num_employees = 8,666{{Efn|3,084 of the company's 8,666 employees are employed by Nintendo Co., Ltd. directly. The remaining 5,582 are employed by its subsidiaries.}}
+| num_employees_year = 2026
+| divisions = {{Unbulleted list
+  | [[List of Nintendo development teams#Business Development Division (BDD)|Business Development]]
+  | [[Nintendo Entertainment Planning & Development|Entertainment Planning & Development]]
+  | [[Nintendo Technology Development Division|Technology Development Division]]
+  }}
+| subsidiaries = {{Collapsible list
+  | [[1-Up Studio]]
+  | [[iQue]]
+  | {{ill|Mario Club|ja|マリオクラブ}}
+  | [[Monolith Soft]]
+  | [[Next Level Games]]
+  | [[Nintendo Cube]]
+  | [[Nintendo European Research & Development]]
+  | [[Nintendo Pictures]]
+  | [[Nintendo Sales]]
+  | [[Nintendo Software Technology]]
+  | Nintendo Stars
+  | Nintendo Studios Singapore (80%)
+  | {{ill|Nintendo Systems|ja|ニンテンドーシステムズ}} (80%)
+  | [[Nintendo Technology Development]]
+  | [[Retro Studios]]
+  | [[Shiver Entertainment]]
+  | {{ill|Systems Research & Development|ja|SRD (ゲーム会社)}}
+  }}
+| website = {{URL|https://nintendo.com}}
+| footnotes = <ref name="Corporate Information : Company Profile" /><ref name="Corporate Information : Company History" /><ref name="Nintendo History" /><ref name="Consolidated Results for the Years Ended March 31, 2021 and 2022" /><ref name="IR Information : Stock Information - Status of Shares" /><ref name="Nintendo founding date" />
+}}
+
+{{Nihongo foot|'''Nintendo Co., Ltd.'''|任天堂株式会社|Nintendō [[kabushiki gaisha]]|lead=yes|group=lower-alpha}} is a Japanese [[Multinational corporation|multinational]] video game company headquartered in [[Kyoto]]. It develops, publishes, and manufactures both [[video game]]s and [[video game console]]s.
+
+The [[history of Nintendo]] began when craftsman [[Fusajiro Yamauchi]] founded the company in 1889 to produce handmade ''[[hanafuda]]'' playing cards. After venturing into various lines of business and becoming a public company, Nintendo began producing toys in the 1960s, and later video games. Nintendo developed its first [[arcade game]]s in the 1970s, and distributed its first system, the [[Color TV-Game]] in 1977. The company became internationally dominant in the 1980s after the arcade release of ''[[Donkey Kong (1981 video game)|Donkey Kong]]'' (1981) and the [[Nintendo Entertainment System]], which launched outside of Japan alongside ''[[Super Mario Bros.]]'' in 1985.
+
+Since then, Nintendo has produced some of the most successful consoles in the [[video game industry]], including the [[Game Boy]] (1989), the [[Super Nintendo Entertainment System]] (1991), the [[Game Boy Advance]] (2001), the [[Nintendo DS]] (2004), the [[Wii]] (2006), and the [[Nintendo Switch]] (2017). It has created or published [[List of Nintendo franchises|numerous major franchises]], including ''[[Mario (franchise)|Mario]]'', ''[[Donkey Kong]]'', ''[[The Legend of Zelda]]'', ''[[Pokémon]]'', ''[[Super Smash Bros.]]'', ''[[Animal Crossing]]'', ''[[Splatoon]],'' ''[[Metroid]]'', ''[[Kirby (series)|Kirby]]'', and ''[[Star Fox]]''. The company's mascot, [[Mario]], is among the most famous fictional characters, and Nintendo's [[Nintendo characters|other characters]]—including [[Luigi (character)|Luigi]], [[Donkey Kong (character)|Donkey Kong]], [[Samus Aran]], [[Link (The Legend of Zelda)|Link]], [[Kirby (character)|Kirby]], [[Pikachu]], and [[Fox McCloud]]—have attained international recognition. Several films and [[Super Nintendo World|a theme park area]] based on the company's franchises have been created.
+
+[[Nintendo video game consoles|Nintendo's game consoles]] have sold over 860 million units worldwide as of May 2025, for which more than 5.9 billion individual games have been sold. The company has [[List of Nintendo development teams|numerous subsidiaries]] in Japan and worldwide, in addition to [[Second party developer|second-party]] developers including [[HAL Laboratory]], [[Intelligent Systems]], and [[Game Freak]]. It is one of the wealthiest and most valuable companies in the Japanese market.{{TOC limit|4}}
+

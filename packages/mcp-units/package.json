@@ -1,0 +1,27 @@
+{
+  "name": "@jev-chat/mcp-units",
+  "private": true,
+  "description": "MCP server: unit conversion and arithmetic",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./units": "./src/units.ts"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "@jev-chat/mcp-kit": "workspace:*",
+    "@modelcontextprotocol/sdk": "catalog:",
+    "mathjs": "^15.2.0",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "tsx": "catalog:",
+    "vitest": "catalog:"
+  }
+}

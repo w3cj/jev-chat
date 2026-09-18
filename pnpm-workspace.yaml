@@ -1,0 +1,15 @@
+packages:
+  - apps/*
+  - packages/*
+allowBuilds:
+  better-sqlite3: true
+  esbuild: true
+  wtf_wikipedia: false
+catalog:
+  "@modelcontextprotocol/sdk": ^1.30.0
+  "@types/node": ^24.13.5
+  hono: ^4.13.8
+  tsx: ^4.23.13
+  typescript: ^7.0.2
+  vitest: ^4.1.11
+  zod: ^4.6.5

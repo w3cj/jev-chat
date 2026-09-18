@@ -1,0 +1,75 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": [
+    "unicorn",
+    "typescript",
+    "oxc",
+    "react",
+    "jsx-a11y",
+    "import",
+    "promise",
+    "node",
+    "vitest",
+    "jsdoc"
+  ],
+  "categories": {
+    "correctness": "error",
+    "suspicious": "error",
+    "perf": "error"
+  },
+  "options": {
+    "typeAware": true
+  },
+  "env": {
+    "node": true,
+    "browser": true,
+    "es2024": true
+  },
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "no-underscore-dangle": "off",
+    "import/no-unassigned-import": ["error", { "allow": ["**/*.css"] }],
+    "no-unused-vars": ["error", { "ignoreRestSiblings": true }],
+    "typescript/no-unsafe-type-assertion": "off",
+    "no-console": "error",
+    "curly": ["error", "multi-line"],
+    "no-nested-ternary": "error",
+    "prefer-template": "error",
+    "unicorn/no-array-for-each": "error",
+    "unicorn/no-useless-undefined": ["error", { "checkArguments": false }],
+
+    "jsdoc/require-param": "off",
+    "jsdoc/require-param-type": "off",
+    "jsdoc/require-returns": "off",
+    "jsdoc/require-returns-type": "off",
+
+    "jsdoc/check-access": "error",
+    "jsdoc/check-property-names": "error",
+    "jsdoc/check-tag-names": "error",
+    "jsdoc/empty-tags": "error",
+    "jsdoc/implements-on-classes": "error",
+    "jsdoc/no-blank-blocks": "error",
+    "jsdoc/no-defaults": "error",
+    "jsdoc/require-param-name": "error",
+    "jsdoc/require-param-description": "error",
+    "jsdoc/require-property": "error",
+    "jsdoc/require-property-name": "error",
+    "jsdoc/require-property-description": "error",
+    "jsdoc/require-returns-description": "error",
+    "jsdoc/require-yields": "error"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.test.ts", "**/*.test.tsx"],
+      "rules": { "vitest/no-conditional-expect": "off" }
+    }
+  ],
+  "ignorePatterns": [
+    ".agents",
+    ".claude",
+    "dist",
+    "apps/server/drizzle",
+    "apps/server/src/tools/search/places.txt",
+    "*.db"
+  ]
+}
