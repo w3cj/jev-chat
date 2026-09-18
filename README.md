@@ -2,6 +2,8 @@
 
 A chat-shaped command bar that calls real tools, **without an LLM writing anything.**
 
+![jev chat screenshot](./screenshot.png)
+
 Every turn, a classifier picks: what was asked, which tool to call, which value goes in each
 argument, whether to confirm first, and what kind of reply to give. Code does the rest: it calls
 the MCP servers and builds the reply from the tools' own data. Because no model ever writes the
